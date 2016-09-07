@@ -1,1 +1,1 @@
-# linx-cors-server
+# linx-s3-server
